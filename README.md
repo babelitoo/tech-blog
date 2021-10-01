@@ -1,4 +1,4 @@
-# tech-blog
+# A Tech Blog
 ## Description
 This is a CMS-style blog site. It follows the MVC paradigm in its file structure. Handlebars.js is used for the templating language. Sequelize is used ad the ORM and the express-session npm package is used for authentication.
 ![Demo Gif](./assets/tech-blog.gif)
